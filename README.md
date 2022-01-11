@@ -12,3 +12,9 @@ all good
 https://github.com/AlexandruDragos00/SP-Lab/commit/b91ee685cd892e4677e910f06cb6fd452ecd3c01
 
 all good
+
+# Feedback lab5:
+
+no visitor implementation
+
+# Proposed grade: 9
